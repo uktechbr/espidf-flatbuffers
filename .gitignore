@@ -31,5 +31,11 @@
 *.out
 *.app
 
+# ESP-IDF Files
+sdkconfig
+*.lock
+
 # Directories
 dist/
+build/
+managed_components/

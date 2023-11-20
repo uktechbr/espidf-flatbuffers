@@ -4,4 +4,4 @@ dependencies:
   idf:
     version: ">=4.1.0"
   uktech/espidf-flatbuffers:
-    version: "^23.5.26"    
+    version: "^23.5.26-rc1"    

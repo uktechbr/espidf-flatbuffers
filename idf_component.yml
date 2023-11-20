@@ -1,6 +1,6 @@
 description: ESP-IDF Google Flatbuffers Support (C++)
 url: https://github.com/uktechbr/espidf-flatbuffers
-version: "23.5.26"
+version: "23.5.26-rc1"
 dependencies:
   idf:
     version: '>=5.0'
